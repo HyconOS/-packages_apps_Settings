@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2021 HyconOS
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -11,7 +12,6 @@
      limitations under the License.
 -->
 
-<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:name="vector"
     android:tint="#FF4F0B98"
